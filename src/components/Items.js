@@ -1,7 +1,12 @@
 import Item from './item/Item';
+import { useSelector } from 'react-redux';
 
 const Items = () => {
-	const items = [1].map((item) => <Item key={item} />);
+	const state = useSelector((state) => state.reducer);
+	const items =
+		state.length > 0
+			? state.map((item) => <Item key={item.id} data={item} />)
+			: null;
 
 	return <>{items}</>;
 };
