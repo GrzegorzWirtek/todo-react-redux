@@ -1,0 +1,40 @@
+.add-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 700px;
+  margin: 12px auto;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #FFEBE0;
+
+}
+
+.add-form {
+  flex-basis: 100%;
+}
+
+.add-textarea {
+  width: 100%;
+  font-family: 'Lato-regular';
+  font-size: 18px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  padding-left: 10px;
+  margin: 15px auto;
+}
+
+.add-button {
+  outline: none;
+  font-size: 20px;
+  padding: 4px 25px;
+  background-color: #5e8551;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.add-button:hover {
+  background-color: #599d42;
+}

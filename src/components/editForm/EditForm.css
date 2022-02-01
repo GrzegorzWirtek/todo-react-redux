@@ -1,0 +1,23 @@
+.item-text-area {
+  flex-basis: 100%;
+  width: 100%;
+  resize: none;
+  font-family: 'Lato-regular';
+  border: none;
+  outline: none;
+  background-color: transparent;
+  user-select: auto;
+  overflow: hidden;
+}
+
+.item-date--edit {
+  opacity: 0.3;
+}
+
+.item-article--edit {
+  border: 2px solid rgb(57, 57, 187);
+}
+
+.item-icon--save {
+  opacity: 1;
+}
