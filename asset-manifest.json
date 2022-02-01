@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo-react-redux/static/css/main.01910954.css",
+    "main.js": "/todo-react-redux/static/js/main.f05c94a1.js",
+    "static/media/Lato-Regular.ttf": "/todo-react-redux/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/edit-solid.svg": "/todo-react-redux/static/media/edit-solid.4ffe848a8656b85e99bdb5c88ce81f5f.svg",
+    "index.html": "/todo-react-redux/index.html",
+    "static/media/save-solid.svg": "/todo-react-redux/static/media/save-solid.716dc859d3ee4761d627b90bbc99239b.svg",
+    "static/media/trash-alt-solid.svg": "/todo-react-redux/static/media/trash-alt-solid.6346df54616329b16736c3b0862f5439.svg",
+    "main.01910954.css.map": "/todo-react-redux/static/css/main.01910954.css.map",
+    "main.f05c94a1.js.map": "/todo-react-redux/static/js/main.f05c94a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01910954.css",
+    "static/js/main.f05c94a1.js"
+  ]
+}
